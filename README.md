@@ -1,4 +1,4 @@
 # My-demo-Repo
 This repo is for practice.
 <br>
-Founder: Abdul Wahab.
+Founder: Raja Abdul Wahab.
